@@ -1,6 +1,8 @@
 # Eris PubSub
 
-![](https://joris.visualstudio.com/_apis/public/build/definitions/b5bf31cd-d10a-4ddb-afc6-e9746c2c9c31/13/badge)
+[![](https://img.shields.io/nuget/v/Eris.PubSub.svg)](https://www.nuget.org/packages/Eris.PubSub)
+
+[![](https://joris.visualstudio.com/_apis/public/build/definitions/b5bf31cd-d10a-4ddb-afc6-e9746c2c9c31/13/badge)](https://github.com/wazowsk1/eris-pubsub)
 
 A simple pubsub implementation
 
