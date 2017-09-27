@@ -2,6 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Eris</Authors>
+    <Company />
+    <Product />
+    <Description>A simple pubsub abstraction</Description>
+    <PackageLicenseUrl>https://github.com/wazowsk1/eris-pubsub/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/wazowsk1/eris-pubsub</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/wazowsk1/eris-pubsub</RepositoryUrl>
+    <PackageTags>Eris PubSub</PackageTags>
   </PropertyGroup>
 
 </Project>

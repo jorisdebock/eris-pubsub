@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Eris</Authors>
+    <Company />
+    <Product />
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/wazowsk1/eris-pubsub</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/wazowsk1/eris-pubsub</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/wazowsk1/eris-pubsub/blob/master/LICENSE</PackageLicenseUrl>
+    <Description>A simple pubsub implementation</Description>
+    <PackageTags>Eris PubSub</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
