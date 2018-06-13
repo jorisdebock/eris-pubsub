@@ -11,10 +11,10 @@ class Message : IMessage { }
 IHub hub = new Hub();
 
 // subscribe to "Message"
-hub.SubScribe<Message>(message => {});
+hub.Subscribe<Message>(message => {});
 
 // subscribe to "IMessage" interface and receive all messages derived from the interface, same thing can be done with a derived class
-hub.SubScribe<IMessage>(message => {});
+hub.Subscribe<IMessage>(message => {});
 
 // publish "Message"
 hub.Publish(new Message());
